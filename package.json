@@ -1,0 +1,34 @@
+{
+  "name": "task3",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "engine": {
+    "node": "~12.8.3",
+    "npm": "~6.14.6"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1",
+    "mongoose": "^5.12.5"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joel-16/task3.git"
+  },
+  "author": "joel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joel-16/task3/issues"
+  },
+  "homepage": "https://github.com/Joel-16/task3#readme",
+  "description": ""
+}
